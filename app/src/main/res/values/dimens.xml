@@ -1,3 +1,10 @@
+<!--
+  ~ Copyright (c) MyPrivateCo.
+  ~ Author:           Administrator
+  ~ Last Change : 27/05/16 4:03 PM
+  ~ All Rights Reserved.
+  -->
+
 <resources>
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>

@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) MyPrivateCo.
+  ~ Author:           Administrator
+  ~ Last Change : 27/05/16 3:07 PM
+  ~ All Rights Reserved.
+  -->
+
 <menu
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">

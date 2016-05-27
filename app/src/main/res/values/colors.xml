@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) MyPrivateCo.
+  ~ Author:           Administrator
+  ~ Last Change : 27/05/16 4:03 PM
+  ~ All Rights Reserved.
+  -->
+
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
