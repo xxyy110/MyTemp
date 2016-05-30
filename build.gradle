@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) MyPrivateCo.
+ * Author:           Administrator
+ * Last Change : 27/05/16 4:03 PM
+ * All Rights Reserved.
+ */
+
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
